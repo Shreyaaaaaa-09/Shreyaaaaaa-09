@@ -1,8 +1,32 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on Python Projects<br>🌱 I’m currently learning Web Development and AI projects<br>💬 Ask me about nothing ... Am done with life<br>😄 Pronouns: She/Her
+<div align="center">
+  <img src="https://i.imgur.com/zOv5QFd.gif" width="250" height="250" alt="anime_girl_typing">
+  <h1 align="center">Hey, I’m Shreya Mitra 👾</h1>
+  <p><em>Full-time dev | Part-time dreamer | Building my own multiverse through code ⚔️</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=70&lines=👩🏻‍💻+Tech+Addict+by+Day...;🌌+Night+Coder+with+Main+Character+Vibes" alt="Typing SVG" />
+</div>
 
+---
+### 🧬 Who Am I?
+
+- 🌸 I romanticize debugging at 2AM  
+- 🌟 Building **clean UIs** + **smart backends** = my love language  
+- 🧪 Currently mixing **Django**, **FastAPI**, and **Flutter** like a mad scientist  
+- 🔥 Dreaming of creating products that hit harder than any anime opening  
+
+---
+### 🔥 Projects am working on right now
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🩺 **PillPal** | Flutter • Firebase | A modern medicine reminder app with custom icons, health survey onboarding & dynamic home screen updates. |
+| 🌤️ **WeatherVerse** | React • OpenWeather API | A weather app that changes its entire vibe based on the forecast—sunny, rainy, stormy, or cloudy 🌩️ |
+| 🔐 **ImageCloud** | FastAPI • AuthJWT • Pillow | Backend clone of Cloudinary: image uploads, filters, transformations, user auth. Minimal and fast. |
+| 💌 **ContactBook** | Django • Bootstrap | A beautiful contact management web app with search, CRUD, and responsive UI. |
+| 🧠 **MoodMate** _(WIP)_ | Python • ML | An emotion detection chatbot that suggests music & affirmations based on your mood. |
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-mitra-7a94b2258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitrashreya.0903@gmail.com) 
