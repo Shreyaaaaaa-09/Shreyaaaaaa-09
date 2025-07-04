@@ -1,7 +1,4 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="nor.com/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296" width="250" height="250" alt="anime_girl_typing">
   <h1 align="center">Hey, I’m Shreya Mitra 👾</h1>
   <p><em>Full-time dev | Part-time dreamer | Building my own multiverse through code ⚔️</em></p>
 </div>
