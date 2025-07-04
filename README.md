@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://i.imgur.com/zOv5QFd.gif" width="250" height="250" alt="anime_girl_typing">
+  <img src="nor.com/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296" width="250" height="250" alt="anime_girl_typing">
   <h1 align="center">Hey, I’m Shreya Mitra 👾</h1>
   <p><em>Full-time dev | Part-time dreamer | Building my own multiverse through code ⚔️</em></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=70&lines=👩🏻‍💻+Tech+Addict+by+Day...;🌌+Night+Coder+with+Main+Character+Vibes" alt="Typing SVG" />
 </div>
 
 ---
